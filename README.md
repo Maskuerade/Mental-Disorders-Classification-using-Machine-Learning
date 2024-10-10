@@ -97,5 +97,3 @@ We would like to thank Dr. Inas A. Yassine and Eng. Mirna Bibars for their guida
 4. Singh, T., & Rajput, M. (2006). Misdiagnosis of bipolar disorder. *Psychiatry*, 3(10), 57–63.
 
 ---
-
-This README provides an overview of your project, methodology, and results. You can customize further based on specific project needs.
